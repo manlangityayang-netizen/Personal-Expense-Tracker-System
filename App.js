@@ -508,7 +508,7 @@ const styles = StyleSheet.create({
   statsRow: {
     flexDirection: "row",
     justifyContent: "space-between",
-    marginTop: 20,
+    marginTop: 21,
   },
 
   statBox: {
@@ -545,8 +545,8 @@ const styles = StyleSheet.create({
   addButton: {
     marginHorizontal: 20,
     backgroundColor: "#2563EB",
-    borderRadius: 16,
-    paddingVertical: 16,
+    borderRadius: 15,
+    paddingVertical: 15,
     flexDirection: "row",
     justifyContent: "center",
     alignItems: "center",
