@@ -712,5 +712,4 @@ const styles = StyleSheet.create({
     color: "#64748B",
     fontWeight: "600",
   },
-});
-//C
+}); // MY CONTRIBUTIONS ARE THE FULL UI DESIGN AND CRUD FUNCTIONALITIES, We only used one laptop during the development.
