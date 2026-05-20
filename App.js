@@ -61,7 +61,7 @@ export default function App() {
     setModalVisible(false);
   };
 
-  // SAVE / UPDATE
+  // SAVE or UPDATE
   const saveTransaction = async () => {
     if (!amount || !category || !date) {
       Alert.alert("Required", "Please fill all required fields");
@@ -713,3 +713,4 @@ const styles = StyleSheet.create({
     fontWeight: "600",
   },
 });
+//C
