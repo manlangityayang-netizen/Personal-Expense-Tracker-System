@@ -50,3 +50,4 @@ Through this application, users can easily monitor their budgets and improve per
 
 ### 6. Logout / Exit
 - The user logs out or exits the application.
+- 
